@@ -110,4 +110,7 @@ console.log(counter); // { i: 1, love: 3, 'interviewing.io': 1 }
    - Tracking something between a particular start and end index, often using the prefix & suffix array tracking strategy.
 
 3. **Least Recently Used (LRU) Cache:**
+
    - An advanced problem involving a doubly-linked list and a hash table to track the locations of elements in the linked list. This problem is popular on platforms like LeetCode.
+
+4. \*\*
